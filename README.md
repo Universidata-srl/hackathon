@@ -1,4 +1,5 @@
-# Hackathon Notebook
+<span style="font-size: 1.6rem; font-weight: bold;"> Hackathon 2025</span><br>
+<span style="font-size: 1.4rem;">powered by Universidata & BNL</span>
 
 This repo contains the files for the Hackathon 2025.
 
