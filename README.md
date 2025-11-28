@@ -2,7 +2,7 @@
 
 This repo contains the files for the Hackathon 2025.
 
-Open `hackathon.ipynb` directly in [Google Colab](https://colab.research.google.com/github/Universidata-srl/hackathon/blob/main/hackathon.ipynb):
+Open `hackathon.ipynb` directly in <a href="https://colab.research.google.com/github/Universidata-srl/hackathon/blob/main/hackathon.ipynb" target="_blank" rel="noopener noreferrer">Google Colab</a>, or:
 - In Colab, go to `File > Open notebook > GitHub`.
 - Paste `https://github.com/Universidata-srl/hackathon/blob/main/hackathon.ipynb` and open it from the repo listing.
 
