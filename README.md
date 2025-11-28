@@ -7,6 +7,6 @@ Open `hackathon.ipynb` directly in <a href="https://colab.research.google.com/gi
 - In Colab, go to `File > Open notebook > GitHub`.
 - Paste `https://github.com/Universidata-srl/hackathon/blob/main/hackathon.ipynb` and open it from the repo listing.
 
-Reminder: you can switch Colab's runtime to GPU under `Runtime > Change runtime type`, but GPU sessions have limited quota and may time out with extended use.
+> Reminder: you can switch Colab's runtime to GPU under `Runtime > Change runtime type`, but GPU sessions have limited quota and may time out with extended use.
 
 <p style="font-size:0.9em;color:#666;">© 2025 UniversiData. All rights reserved.</p>
