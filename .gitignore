@@ -9,7 +9,7 @@ convert_to_html.sh
 
 # Secret to participants
 data/bundle_assessment.pkl
-hackathon_assessment.ipynb
+# released: hackathon_assessment.ipynb
 hackathon_solution.ipynb
 results
 assessment
