@@ -9,11 +9,11 @@ convert_to_html.sh
 
 # Secret to participants
 data/bundle_assessment.pkl
-# released: hackathon_assessment.ipynb
 hackathon_solution.ipynb
 results
-assessment
-!assessment/hackathon_assessment.ipynb
+# released after competition:
+/assessment/*
+!/assessment/hackathon_assessment.ipynb
 
 # Jupyter metadata
 .ipynb_checkpoints/
