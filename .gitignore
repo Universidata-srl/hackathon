@@ -13,6 +13,7 @@ data/bundle_assessment.pkl
 hackathon_solution.ipynb
 results
 assessment
+!assessment/hackathon_assessment.ipynb
 
 # Jupyter metadata
 .ipynb_checkpoints/
